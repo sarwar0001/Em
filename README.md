@@ -1,2 +1,2 @@
-# Em
+# Emojipedia
 Created with CodeSandbox
